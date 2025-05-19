@@ -3,6 +3,7 @@ IOT Projects
 ===========================
 
 Project 1: AI-Powered Password Generator
+project 2: (name/; password.py) more adanvaced than the first one 
 ----------------------------------------
 
 Description:
@@ -73,5 +74,6 @@ Required Libraries:
 - tkinter (standard with Python)
 
 ---------------------------
-Developed with ❤️ in Python
+Developed by G_klay8
 ---------------------------
+best wishes in navigating through them
